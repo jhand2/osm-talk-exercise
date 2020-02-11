@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("I <3 Open Sourc!\n");
+    printf("I <3 Open Source!\n");
     return 0;
 }
